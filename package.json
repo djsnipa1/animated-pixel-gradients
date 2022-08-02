@@ -21,7 +21,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "gif.js": "^0.2.0",
-    "helmet": "^3.18.0",
+    "helmet": "^3.23.3",
     "mainloop.js": "^1.0.4",
     "opentype.js": "^1.1.0"
   },
